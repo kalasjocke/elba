@@ -16,4 +16,4 @@ app.resource('pet', {
   owner: 'person',
 })
 
-app.listen(1337)
+app.listen(process.env.PORT or 1337)
