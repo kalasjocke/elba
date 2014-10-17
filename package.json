@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/coffee-script/bin/coffee app.coffee"
   },
   "author": "",
   "license": "ISC",
