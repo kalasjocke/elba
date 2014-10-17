@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./node_modules/coffee-script/bin/coffee app.coffee"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "coffee-script": "^1.8.0",
     "fortune": "^0.2.4"
   }
 }
