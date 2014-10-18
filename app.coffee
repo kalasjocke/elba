@@ -2,6 +2,8 @@ fortune = require 'fortune'
 
 app = fortune(
   db: 'petstore',
+  adapter: 'mongodb',
+  connectionString: process.env.MONGOHQ_URL,
 )
 
 app.resource('person', {

@@ -9,6 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.8.0",
-    "fortune": "^0.2.4"
+    "fortune": "^0.2.4",
+    "fortune-mongodb": "^0.2.2"
   }
 }
