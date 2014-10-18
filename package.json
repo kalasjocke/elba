@@ -1,10 +1,9 @@
 {
-  "name": "pig",
+  "name": "elba",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "dependencies": {
